@@ -1,6 +1,6 @@
-# TaskFlow - Premium Task Manager Application
+# TaskFlow - Task Manager Application
 
-TaskFlow is a responsive, full-stack Task Manager application that allows users to register, log in, and manage tasks across three workflow stages: **Todo**, **In Progress**, and **Done**. It features a premium dark-mode UI with glassmorphism aesthetics, live status counts, HTML5 drag-and-drop, real-time search, and priority categorizations.
+TaskFlow is a responsive, full-stack Task Manager application that allows users to register, log in, and manage tasks across three workflow stages: **Todo**, **In Progress**, and **Done**. It features a premium dark-mode UI ], live status counts, HTML5 drag-and-drop, real-time search, and priority categorizations.
 
 ---
 
@@ -52,7 +52,7 @@ TaskFlow is a responsive, full-stack Task Manager application that allows users 
    ```env
    PORT=5000
    MONGODB_URI=mongodb://127.0.0.1:27017/task_manager # Replace with your Atlas connection string if needed
-   JWT_SECRET=super_secret_key_antigravity_task_manager_2026
+   JWT_SECRET=super_secret_key
    ```
 4. Start the development server (runs on port 5000):
    ```bash
