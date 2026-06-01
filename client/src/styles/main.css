@@ -138,6 +138,11 @@ body {
   box-shadow: 0 0 0 4px var(--primary-glow);
 }
 
+select.form-input option {
+  background-color: var(--surface-color);
+  color: var(--text-primary);
+}
+
 .btn {
   display: inline-flex;
   justify-content: center;
